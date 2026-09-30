@@ -1,4 +1,4 @@
-# 🛒 TechStore - Plataforma E-Commerce em Python
+# 🛒  Plataforma E-Commerce em Python
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-ecommerce--python-181717?style=for-the-badge&logo=github)](https://github.com/rafaelperezfd)
 [![Status](https://img.shields.io/badge/Status-Concluído-emerald?style=for-the-badge)](#)
